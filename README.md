@@ -16,6 +16,7 @@ A web browser that supports HTML, CSS, and Javascript.
 2. The player must then repeat the sequence by clicking the corresponding colored buttons.
 3. If the player successfully repeats the sequence, the computer will add another color to the sequence, and the player must repeat the new sequence.
 4. The game ends if the player makes a mistake or reaches the highest level.
+5. The game will Restart on Pressing any key on Keyboard.
 ### Controls
 The game can be controlled using the mouse or the touch screen of your device.
 
